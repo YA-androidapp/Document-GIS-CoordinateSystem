@@ -45,6 +45,8 @@
 「日本測地系2000」と命名している。
 
 - [日本の測地系 | 国土地理院](https://www.gsi.go.jp/sokuchikijun/datum-main.html)
+- [国家座標とは？ | 国土地理院](https://www.gsi.go.jp/sokuchikijun/kokkazahyo.html)
+  - [国家座標](https://www.gsi.go.jp/common/000237684.pdf)
 - [世界測地系移行の概要 | 国土地理院](https://www.gsi.go.jp/LAW/G2000-g2000.htm)
 - [「測地成果2000」と「測地成果2011」 | 国土地理院](https://www.gsi.go.jp/sokuchikijun/jgd2000-2011.html)
 - [測地学テキスト](https://geod.jpn.org/web-text/top/mokuji.html)
